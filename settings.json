@@ -1,0 +1,8 @@
+{
+    "backup_folders": [
+        "~/Музыка",
+        "~/Изображения"
+    ],
+    "backup_destination": "Backups",
+    "schedule_seconds": 5
+}
